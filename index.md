@@ -15,15 +15,15 @@ Saudações aeronáuticas!
 Quem é fã do Aviões e Músicas sempre ouve o Lito falando sobre o CENIPA e o ótimo trabalho que eles fazem.
 
 
-Consultei os dados que o CENIPA disponibiliza e fiz um painel com as principais informações disponibilizadas.
+Para criar esse painel, consultei os dados que o CENIPA disponibiliza e crei visualizações as principais informações disponibilizadas.
 
 {% raw %}
 <iframe width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2" frameborder="0" allowFullScreen="true"></iframe>
 {% endraw %}
 
 
-Ele completo está aqui: {% raw %} https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2 {% endraw %}
+Ele completo está aqui: (https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2)
 
 ## Contato
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Você pode me encontrar no LinkedIn: 
