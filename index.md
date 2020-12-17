@@ -9,7 +9,8 @@ A maioria deles está em Power BI (ainda..) e alguns tem utilização de scripts
 Aqui você pode navegar pelos painéis que criei com alguns dados encontrados na internet.
 
 ### Panorama das ocorrências aeronáticas na Aviação Civil Brasileira
-jlklk
+vai
+
 {% raw %}
 <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2" frameborder="0" allowFullScreen="true"></iframe>
 {% endraw %}
