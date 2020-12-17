@@ -11,7 +11,7 @@ Aqui você pode navegar pelos painéis que criei com alguns dados encontrados na
 ### Panorama das ocorrências aeronáticas na Aviação Civil Brasileira
 jlklk
 {% raw %}
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=67592927-0235-41db-9bd7-63139e1f3a25&autoAuth=true&ctid=9573c1af-d4cb-4274-8121-cb52522daf48&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2" frameborder="0" allowFullScreen="true"></iframe>
 {% endraw %}
 
 ## Contato
