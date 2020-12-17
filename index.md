@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## LM Developer
 
-You can use the [editor on GitHub](https://github.com/laismeuchi/lmdeveloper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esta é a página com meu portifólio de trabalhos em BI.
+A maioria deles está em Power BI (ainda..) e alguns tem utilização de scripts em Python para recuperar informações na internet (sites, FTP´s, etc)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Power BI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aqui você pode navegar pelos painéis que criei com alguns dados encontrados na internet.
 
-```markdown
-Syntax highlighted code block
+### Panorama das ocorrências aeronáticas na Aviação Civil Brasileira
 
-# Header 1
-## Header 2
-### Header 3
+https://app.powerbi.com/reportEmbed?reportId=67592927-0235-41db-9bd7-63139e1f3a25&autoAuth=true&ctid=9573c1af-d4cb-4274-8121-cb52522daf48&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laismeuchi/lmdeveloper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Contato
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
