@@ -22,7 +22,7 @@ Para criar esse painel, consultei os dados que o CENIPA disponibiliza e crei vis
 {% endraw %}
 
 
-Ele completo está aqui: (https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2)
+Ele completo está aqui: <a href="https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGFkYy00MjExLWI1NDMtMjU1MGY1NzNiMGVjIiwidCI6Ijk1NzNjMWFmLWQ0Y2ItNDI3NC04MTIxLWNiNTI1MjJkYWY0OCJ9&pageName=ReportSectionc9cc4a7e54785cbfbdc2">Panorama das ocorrências aeronáticas na Aviação Civil Brasileira</a>
 
 ## Contato
 
