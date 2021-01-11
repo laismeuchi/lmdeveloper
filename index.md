@@ -26,5 +26,7 @@ Ele completo está aqui: (https://app.powerbi.com/view?r=eyJrIjoiNmU1NzMyMWItMGF
 
 ## Contato
 
-Você pode me encontrar no LinkedIn: 
-https://www.linkedin.com/in/laismeuchi
+Você pode me encontrar no LinkedIn:
+
+<a href="https://www.linkedin.com/in/laismeuchi">Lais Meuchi text</a>
+
